@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/dogestyle-webste/static/css/main.de5d5323.chunk.css",
+    "main.js": "/dogestyle-webste/static/js/main.11cb7eca.chunk.js",
+    "main.js.map": "/dogestyle-webste/static/js/main.11cb7eca.chunk.js.map",
+    "runtime-main.js": "/dogestyle-webste/static/js/runtime-main.ddb311e6.js",
+    "runtime-main.js.map": "/dogestyle-webste/static/js/runtime-main.ddb311e6.js.map",
+    "static/css/2.18a46d53.chunk.css": "/dogestyle-webste/static/css/2.18a46d53.chunk.css",
+    "static/js/2.a5cad7fe.chunk.js": "/dogestyle-webste/static/js/2.a5cad7fe.chunk.js",
+    "static/js/2.a5cad7fe.chunk.js.map": "/dogestyle-webste/static/js/2.a5cad7fe.chunk.js.map",
+    "static/js/3.1147e12e.chunk.js": "/dogestyle-webste/static/js/3.1147e12e.chunk.js",
+    "static/js/3.1147e12e.chunk.js.map": "/dogestyle-webste/static/js/3.1147e12e.chunk.js.map",
+    "index.html": "/dogestyle-webste/index.html",
+    "static/css/2.18a46d53.chunk.css.map": "/dogestyle-webste/static/css/2.18a46d53.chunk.css.map",
+    "static/css/main.de5d5323.chunk.css.map": "/dogestyle-webste/static/css/main.de5d5323.chunk.css.map",
+    "static/js/2.a5cad7fe.chunk.js.LICENSE.txt": "/dogestyle-webste/static/js/2.a5cad7fe.chunk.js.LICENSE.txt",
+    "static/media/home.scss": "/dogestyle-webste/static/media/minimal.b9accb2f.png",
+    "static/media/cube.967a8b38.png": "/dogestyle-webste/static/media/cube.967a8b38.png",
+    "static/media/distribution.beed0419.png": "/dogestyle-webste/static/media/distribution.beed0419.png",
+    "static/media/logo.6ce24c58.svg": "/dogestyle-webste/static/media/logo.6ce24c58.svg",
+    "static/media/mesh.7fbebf4b.png": "/dogestyle-webste/static/media/mesh.7fbebf4b.png",
+    "static/media/paw.fbe669f8.png": "/dogestyle-webste/static/media/paw.fbe669f8.png",
+    "static/media/pyramid.c9f40e4c.png": "/dogestyle-webste/static/media/pyramid.c9f40e4c.png",
+    "static/media/roadmap.b9022dbd.png": "/dogestyle-webste/static/media/roadmap.b9022dbd.png",
+    "static/media/tokenomics.7af6e107.png": "/dogestyle-webste/static/media/tokenomics.7af6e107.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddb311e6.js",
+    "static/css/2.18a46d53.chunk.css",
+    "static/js/2.a5cad7fe.chunk.js",
+    "static/css/main.de5d5323.chunk.css",
+    "static/js/main.11cb7eca.chunk.js"
+  ]
+}
